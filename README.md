@@ -33,7 +33,6 @@
         <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
           <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
-          <li>💡 <strong>Motto:</strong> <em>"Never Too Late to Pursue Your Dreams"</em></li>
           <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
           <li>💻 Passionate about building scalable solutions and data-driven applications</li>
         </ul>
