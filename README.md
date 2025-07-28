@@ -1,8 +1,30 @@
 # Hi there! 👋 I'm Le Viet Thanh
 
 <div align="center">
-  <img src="coding.gif" alt="Coding Animation" width="600"/>
+  <- 🤖 **AI Engineering:** Developing intelligent systems and machine learning models
+- 📊 **Data Analysis:** Extracting insights from complex datasets
+
+## 📫 Let's Connect!  <tr>
+      <td width="50%">
+        <img src="coding.gif" alt="Coding Animation" width="100%"/>
+      </td>
+      <td width="50%" align="center">
+        <h2>📊 Most Used Languages</h2>
+        <h3>📈 Language Usage Statistics</h3>
+        <p><strong>Java:</strong> 35% ☕</p>
+        <p><strong>Python:</strong> 30% 🐍</p>
+        <p><strong>C++:</strong> 25% ⚡</p>
+        <p><strong>C#:</strong> 10% 🔷</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+## 🌟 Philosophy
+
+> **"Never Too Late to Pursue Your Dreams"**
+> 
+> I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.
 
 ## 💫 About Me
 
@@ -35,25 +57,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Most Used Languages
-
-<div align="center">
-  
-### 📈 Language Usage Statistics
-- **Java:** 35% ☕
-- **Python:** 30% 🐍
-- **C++:** 25% ⚡
-- **C#:** 10% 🔷
-
-</div>
-
 ## 🎯 What I Do
 
 - 🔭 **Software Engineering:** Building robust and scalable applications
 - 📊 **Data Engineering:** Designing efficient data pipelines and ETL processes  
 - 🤖 **AI Engineering:** Developing intelligent systems and machine learning models
 - � **Data Analysis:** Extracting insights from complex datasets
-- 🌐 **Full-Stack Development:** Creating end-to-end solutions
 
 ## 🌟 Philosophy
 
