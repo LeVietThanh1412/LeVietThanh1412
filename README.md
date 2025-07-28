@@ -1,10 +1,8 @@
 # Hi there! 👋 I'm Le Viet Thanh
 
 <div align="center">
-  <- 🤖 **AI Engineering:** Developing intelligent systems and machine learning models
-- 📊 **Data Analysis:** Extracting insights from complex datasets
-
-## 📫 Let's Connect!  <tr>
+  <table>
+    <tr>
       <td width="50%">
         <img src="coding.gif" alt="Coding Animation" width="100%"/>
       </td>
@@ -62,13 +60,7 @@
 - 🔭 **Software Engineering:** Building robust and scalable applications
 - 📊 **Data Engineering:** Designing efficient data pipelines and ETL processes  
 - 🤖 **AI Engineering:** Developing intelligent systems and machine learning models
-- � **Data Analysis:** Extracting insights from complex datasets
-
-## 🌟 Philosophy
-
-> **"Never Too Late to Pursue Your Dreams"**
-> 
-> I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.
+- 📊 **Data Analysis:** Extracting insights from complex datasets
 
 ## 📫 Let's Connect!
 
@@ -79,17 +71,3 @@ Feel free to reach out if you want to collaborate on interesting projects or jus
 <div align="center">
   <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</i>
 </div>
-<!--
-**LeVietThanh1412/LeVietThanh1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
