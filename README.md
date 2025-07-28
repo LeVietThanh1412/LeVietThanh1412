@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Le Viet Thanh
+# Hi there! 👋 I'm Le Viet Thanh from Viet Nam
 
 <div align="center">
   <table>
@@ -26,11 +26,24 @@
 
 ## 💫 About Me
 
-🚀 **Software Engineer | Data Engineer | AI Engineer**
-- 🎯 **DSA Score:** 9.8/10
-- 💡 **Motto:** *"Never Too Late to Pursue Your Dreams"*
-- 🌱 Currently exploring cutting-edge technologies in AI and Data Science
-- 💻 Passionate about building scalable solutions and data-driven applications
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
+        <ul align="left">
+          <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
+          <li>💡 <strong>Motto:</strong> <em>"Never Too Late to Pursue Your Dreams"</em></li>
+          <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
+          <li>💻 Passionate about building scalable solutions and data-driven applications</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="Developer GIF" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
