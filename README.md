@@ -1,5 +1,30 @@
 # Hi there! 👋 I'm Le Viet Thanh from Viet Nam
 
+## 💫 About Me
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="50%" style="border: none;">
+        <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
+        <ul align="left">
+          <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
+          <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
+          <li>💻 Passionate about building scalable solutions and data-driven applications</li>
+        </ul>
+        <h4>🌟 Philosophy</h4>
+        <blockquote>
+          <p><strong>"Never Too Late to Pursue Your Dreams"</strong></p>
+          <p><em>I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.</em></p>
+        </blockquote>
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="Developer GIF" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -13,32 +38,6 @@
         <p><strong>Python:</strong> 30% 🐍</p>
         <p><strong>C++:</strong> 25% ⚡</p>
         <p><strong>C#:</strong> 10% 🔷</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌟 Philosophy
-
-> **"Never Too Late to Pursue Your Dreams"**
-> 
-> I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.
-
-## 💫 About Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
-        <ul align="left">
-          <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
-          <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
-          <li>💻 Passionate about building scalable solutions and data-driven applications</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="Developer GIF" width="100%"/>
       </td>
     </tr>
   </table>
@@ -63,7 +62,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Development Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
