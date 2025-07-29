@@ -1,11 +1,17 @@
 # Hi there! 👋 I'm Le Viet Thanh from Viet Nam
 
+## 🎓 Introduction
+
+🌟 **Welcome to my GitHub profile!** I am a freshman majoring in Artificial Intelligence at the University of Engineering and Technology, Vietnam National University, Hanoi (UET - VNU).
+
+🚀 Currently learning about data science before diving deeper into Artificial Intelligence
+
 ## 💫 About Me
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td width="75%" style="border: none;">
+      <td width="75%" style="border: none; padding: 0;">
         <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
           <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
@@ -18,7 +24,7 @@
           <p><em>I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.</em></p>
         </blockquote>
       </td>
-      <td width="25%" align="center" style="border: none;">
+      <td width="25%" align="center" style="border: none; padding: 0;">
         <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="Developer GIF" width="100%"/>
       </td>
     </tr>
