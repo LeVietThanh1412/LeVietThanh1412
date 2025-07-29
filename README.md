@@ -15,6 +15,7 @@
         <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
           <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
+          <li>📖 <string> Math Score:</strong> 9/10 (National High School)</li>
           <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
           <li>💻 Passionate about building scalable solutions and data-driven applications</li>
         </ul>
