@@ -32,12 +32,12 @@
 </div>
 
 <div align="center">
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td width="50%">
+      <td width="50%" style="border: none; padding: 0;">
         <img src="coding.gif" alt="Coding Animation" width="100%"/>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="border: none; padding: 0;">
         <h2>📊 Most Used Languages</h2>
         <h3>📈 Language Usage Statistics</h3>
         <p><strong>Java:</strong> 35% ☕</p>
