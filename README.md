@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Le Viet Thanh from Viet Nam
+# Hi there! 👋 I'm Le Viet Thanh
 
 ## 🎓 Introduction
 
