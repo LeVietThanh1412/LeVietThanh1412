@@ -5,7 +5,7 @@
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td width="50%" style="border: none;">
+      <td width="75%" style="border: none;">
         <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
           <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
@@ -18,7 +18,7 @@
           <p><em>I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.</em></p>
         </blockquote>
       </td>
-      <td width="50%" align="center" style="border: none;">
+      <td width="25%" align="center" style="border: none;">
         <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="Developer GIF" width="100%"/>
       </td>
     </tr>
@@ -45,6 +45,8 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,6 +67,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ## 🎯 What I Do
 
