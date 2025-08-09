@@ -33,19 +33,24 @@
   </table>
 </div>
 
+
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
+  <table style="border: none; border-collapse: collapse; width: 100%;">
     <tr>
-      <td width="50%" style="border: none; padding: 0;">
-        <img src="coding.gif" alt="Coding Animation" width="100%"/>
+      <td style="border: none; padding: 0;" align="center">
+        <h2>📊 GitHub Stats Overview</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=github_dark" alt="LeVietThanh1412's GitHub stats" width="90%" />
       </td>
-      <td width="50%" align="center" style="border: none; padding: 0;">
-        <h2>📊 GitHub Stats</h2>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=github_dark" alt="LeVietThanh1412's GitHub stats" width="100%" />
-          <br/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=github_dark" alt="Top Langs" width="100%" />
-        </p>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="border: none; padding: 0;" align="center">
+        <h2>📚 Most Used Languages</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=github_dark" alt="Top Langs" width="90%" />
       </td>
     </tr>
   </table>
