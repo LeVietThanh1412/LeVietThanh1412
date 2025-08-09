@@ -52,7 +52,6 @@
 </div>
 
 ## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 ### Programming Languages
