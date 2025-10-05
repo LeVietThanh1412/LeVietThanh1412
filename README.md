@@ -14,7 +14,7 @@
       <td width="75%" style="border: none; padding: 0;">
         <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
-          <li>🏫 <strong> GPA:</strong> 3.23/4</li>
+          <li>🏫 <strong> GPA:</strong> 3.28/4</li>
           <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
           <li>📖 <strong> Math Score:</strong> 9/10 (National High School exam)</li>
           <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
@@ -72,7 +72,7 @@
 
 ### Development Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
