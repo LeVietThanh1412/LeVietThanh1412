@@ -1,26 +1,26 @@
-# Hi there! 👋 I'm Le Viet Thanh
+# Hi there! I'm Le Viet Thanh
 
-## 🎓 Introduction
+## Introduction
 
-🌟 **Welcome to my GitHub profile!** I am a freshman majoring in Artificial Intelligence at the University of Engineering and Technology, Vietnam National University, Hanoi (UET - VNU).
+**Welcome to my GitHub profile!** I am a freshman majoring in Artificial Intelligence at the University of Engineering and Technology, Vietnam National University, Hanoi (UET - VNU).
 
-🚀 Currently learning about data science before diving deeper into Artificial Intelligence
+Currently learning about data science before diving deeper into Artificial Intelligence
 
-## 💫 About Me
+## About Me
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td width="75%" style="border: none; padding: 0;">
-        <h3>🚀 Software Engineer | Data Engineer | AI Engineer</h3>
+        <h3>Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
-          <li>🏫 <strong> GPA:</strong> 3.28/4</li>
-          <li>🎯 <strong>DSA Score:</strong> 9.8/10</li>
-          <li>📖 <strong> Math Score:</strong> 9/10 (National High School exam)</li>
-          <li>🌱 Currently exploring cutting-edge technologies in AI and Data Science</li>
-          <li>💻 Passionate about building scalable solutions and data-driven applications</li>
+          <li><strong> GPA:</strong> 3.28/4</li>
+          <li><strong>DSA Score:</strong> 9.8/10</li>
+          <li><strong> Math Score:</strong> 9/10 (National High School exam)</li>
+          <li>Currently exploring cutting-edge technologies in AI and Data Science</li>
+          <li>Passionate about building scalable solutions and data-driven applications</li>
         </ul>
-        <h4>🌟 Philosophy</h4>
+        <h4>Philosophy</h4>
         <blockquote>
           <p><strong>"Never Too Late to Pursue Your Dreams"</strong></p>
           <p><em>I believe that continuous learning and adaptation are the keys to success in the ever-evolving tech landscape.</em></p>
@@ -40,7 +40,7 @@
         <img src="coding.gif" alt="Coding Animation" width="100%"/>
       </td>
       <td width="50%" align="center" style="border: none; padding: 0;">
-        <h2>📊 GitHub Stats</h2>
+        <h2>GitHub Stats</h2>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=github_dark" alt="LeVietThanh1412's GitHub stats" width="100%" />
           <br/>
@@ -51,7 +51,7 @@
   </table>
 </div>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 <div align="center">
 
 ### Programming Languages
@@ -82,22 +82,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 </div>
 
-## 🎯 What I Do
+## What I Do
 
-- 🔭 **Software Engineering:** Building robust and scalable applications
-- 📊 **Data Engineering:** Designing efficient data pipelines and ETL processes  
-- 🤖 **AI Engineering:** Developing intelligent systems and machine learning models
-- 📊 **Data Analysis:** Extracting insights from complex datasets
+- **Software Engineering:** Building robust and scalable applications
+- **Data Engineering:** Designing efficient data pipelines and ETL processes  
+- **AI Engineering:** Developing intelligent systems and machine learning models
+- **Data Analysis:** Extracting insights from complex datasets
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology!
 
 ---
 
-<div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</i>
-</div>
+
