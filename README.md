@@ -42,9 +42,9 @@ Currently learning about data science before diving deeper into Artificial Intel
       <td width="50%" align="center" style="border: none; padding: 0;">
         <h2>GitHub Stats</h2>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=github_dark" alt="LeVietThanh1412's GitHub stats" width="100%" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=github_dark&cache_seconds=86400" alt="LeVietThanh1412's GitHub stats" width="100%" />
           <br/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=github_dark" alt="Top Langs" width="100%" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=github_dark&cache_seconds=86400" alt="Top Langs" width="100%" />
         </p>
       </td>
     </tr>
