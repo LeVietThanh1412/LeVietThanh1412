@@ -14,9 +14,9 @@ Currently learning about data science before diving deeper into Artificial Intel
       <td width="75%" style="border: none; padding: 0;">
         <h3>Software Engineer | Data Engineer | AI Engineer</h3>
         <ul align="left">
-          <li><strong> GPA:</strong> 3.28/4</li>
+          <li><strong> GPA:</strong> 3.41/4</li>
           <li><strong>DSA Score:</strong> 9.8/10</li>
-          <li><strong> Math Score:</strong> 9/10 (National High School exam)</li>
+          <li><strong> NAT :</strong> 9/10 (National High School exam)</li>
           <li>Currently exploring cutting-edge technologies in AI and Data Science</li>
           <li>Passionate about building scalable solutions and data-driven applications</li>
         </ul>
