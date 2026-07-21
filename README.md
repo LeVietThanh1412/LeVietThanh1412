@@ -112,11 +112,11 @@ class LeVietThanh:
 
 <!-- VDT 3DGS -->
 <a href="https://github.com/LeVietThanh1412/vdt-2026-3d-gaussian-splatting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=vdt-2026-3d-gaussian-splatting&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=vdt-2026-3d-gaussian-splatting&theme=radical" />
 </a>
 <!-- Smart Attendance -->
 <a href="https://github.com/LeVietThanh1412/BTL-2526II_AIT3004_2-smart_attendance_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=BTL-2526II_AIT3004_2-smart_attendance_system&theme=tokyonight&custom_title=smart_attendance_system" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=BTL-2526II_AIT3004_2-smart_attendance_system&theme=tokyonight&custom_title=smart_attendance_system" />
 </a>
 
 </div>
@@ -125,11 +125,11 @@ class LeVietThanh:
 
 <!-- Flappy Bird NEAT -->
 <a href="https://github.com/LeVietThanh1412/flappy-bird-neat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=flappy-bird-neat&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=flappy-bird-neat&theme=merko" />
 </a>
 <!-- LTXLDL -->
 <a href="https://github.com/LeVietThanh1412/2526-LTXLDL-Project-AIT2006-2-4.2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=2526-LTXLDL-Project-AIT2006-2-4.2&theme=cobalt&custom_title=airbnb_data_analysis" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=2526-LTXLDL-Project-AIT2006-2-4.2&theme=cobalt&custom_title=airbnb_data_analysis" />
 </a>
 
 </div>
@@ -142,12 +142,12 @@ class LeVietThanh:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeVietThanh1412&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
@@ -174,6 +174,7 @@ class LeVietThanh:
 mindmap
   root((Le Viet Thanh))
     Computer Vision
+    Computer Vision & 3D
       3D Gaussian Splatting
       Object Detection
       Face Recognition
@@ -185,11 +186,32 @@ mindmap
       Text Classification
       Language Models
     Reinforcement Learning
+      NeRF Neural Rendering
+      YOLOv8 Object Detection
+      FaceNet Recognition
+      MediaPipe Hand Tracking
+    AI & Reinforcement Learning
+      PPO Algorithm
+      Stable-Baselines3 & Gym
       NEAT Neuroevolution
       Game AI Agents
     Backend
+      RAG & Advanced RAG
+      Gemini 2.0 API Integration
+    C++ System Dev
+      Multi-threading & Concurrency
+      Socket IPC
+      GUI Development (Qt)
+      CMake & vcpkg Build Tools
+    Data Engineering
+      Pandas & NumPy Pipelines
+      Data QA & Validation (IQR)
+      Kepler.gl Heatmap Vis
+    Backend & Databases
+      FastAPI & Express.js
       Redis Caching
       MySQL and MongoDB
+      MySQL · MongoDB · Postgres
 ```
 
 ---
