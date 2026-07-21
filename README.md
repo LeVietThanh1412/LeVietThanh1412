@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+for+Computer+Vision+%F0%9F%91%81%EF%B8%8F;3D+Gaussian+Splatting+Researcher+%F0%9F%8C%90;Reinforcement+Learning+Enthusiast+%F0%9F%8E%AE;Student+%40+UET+-+VNU+Hanoi+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+for+Computer+Vision;3D+Gaussian+Splatting+Researcher;Reinforcement+Learning+Enthusiast;Student+%40+UET+-+VNU+Hanoi" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levietThanh1412/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeVietThanh1412)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levietThanh1412@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhdevuetvnu2024@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeVietThanh1412&color=7C3AED&style=for-the-badge&label=Profile+Views)
 
