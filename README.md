@@ -134,23 +134,6 @@ class LeVietThanh:
 
 </div>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeVietThanh1412&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeVietThanh1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-
-</div>
-
 ---
 
 ## 🏅 Achievements & Scores
