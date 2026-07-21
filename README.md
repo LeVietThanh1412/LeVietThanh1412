@@ -112,11 +112,11 @@ class LeVietThanh:
 
 <!-- VDT 3DGS -->
 <a href="https://github.com/LeVietThanh1412/vdt-2026-3d-gaussian-splatting">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=vdt-2026-3d-gaussian-splatting&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=vdt-2026-3d-gaussian-splatting&theme=radical" />
 </a>
 <!-- Smart Attendance -->
 <a href="https://github.com/LeVietThanh1412/BTL-2526II_AIT3004_2-smart_attendance_system">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=BTL-2526II_AIT3004_2-smart_attendance_system&theme=tokyonight&custom_title=smart_attendance_system" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=BTL-2526II_AIT3004_2-smart_attendance_system&theme=tokyonight&custom_title=smart_attendance_system" />
 </a>
 
 </div>
@@ -125,11 +125,11 @@ class LeVietThanh:
 
 <!-- Flappy Bird NEAT -->
 <a href="https://github.com/LeVietThanh1412/flappy-bird-neat">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=flappy-bird-neat&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=flappy-bird-neat&theme=merko" />
 </a>
 <!-- LTXLDL -->
 <a href="https://github.com/LeVietThanh1412/2526-LTXLDL-Project-AIT2006-2-4.2">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeVietThanh1412&repo=2526-LTXLDL-Project-AIT2006-2-4.2&theme=cobalt&custom_title=airbnb_data_analysis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeVietThanh1412&repo=2526-LTXLDL-Project-AIT2006-2-4.2&theme=cobalt&custom_title=airbnb_data_analysis" />
 </a>
 
 </div>
