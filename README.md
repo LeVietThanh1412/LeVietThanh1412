@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=200&section=header&text=Le%20Viet%20Thanh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=200&section=header&text=Le%20Viet%20Thanh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20System%20Programming%20%7C%20Computer%20Vision&descAlignY=55&descSize=20" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+for+Computer+Vision;3D+Gaussian+Splatting+Researcher;Reinforcement+Learning+Enthusiast;Student+%40+UET+-+VNU+Hanoi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;System+Programming+%40+Viettel+Aerospace+Institute;VDT+(Viettel+Digital+Talent);Deep+Learning+for+Computer+Vision;3D+Gaussian+Splatting+Researcher;Student+%40+UET+-+VNU+Hanoi" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,15 +37,21 @@ class LeVietThanh:
         self.dsa_score   = 9.8 / 10
         self.nat_score   = 9.0 / 10  # National HS exam
 
+        self.experience = [
+            "Viettel Digital Talent (VDT)",
+            "System Programming @ Viettel Aerospace Institute (VTX)"
+        ]
+
         self.interests = [
             "Deep Learning for Computer Vision",
+            "System Programming & Architecture",
             "3D Neural Rendering (3DGS, NeRF)",
             "Large Language Models (LLM)",
             "Reinforcement Learning",
-            "Neuroevolution (NEAT)",
         ]
 
         self.currently_learning = [
+            "Embedded Systems & RTOS",
             "3D Gaussian Splatting",
             "Advanced Redis patterns",
             "Transformer architectures",
