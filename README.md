@@ -35,7 +35,8 @@ class LeVietThanh:
         self.major       = "Artificial Intelligence"
         self.gpa         = 3.41 / 4.0
         self.dsa_score   = 9.8 / 10
-        self.nat_score   = 9.0 / 10  # National HS exam
+        self.nat_math_score   = 9.0 / 10  # National HS exam
+        self.iq          = 123
 
         self.experience = [
             "Viettel Digital Talent (VDT)",
@@ -150,7 +151,7 @@ class LeVietThanh:
 |---|---|
 | 🎓 GPA | **3.41 / 4.0** |
 | 💻 Data Structures & Algorithms | **9.8 / 10** |
-| 📝 National High School Exam | **9.0 / 10** |
+| 📝 IQ TEST (Viettel) | **123** |
 | 🤖 Deep Learning & Machine Learning | Completed |
 
 </div>
