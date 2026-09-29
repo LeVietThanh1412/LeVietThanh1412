@@ -113,6 +113,23 @@ class LeVietThanh:
 
 ---
 
+## ✈️ Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-theta-pink-26.vercel.app/api?username=LeVietThanh1412&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Le Viet Thanh's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LeVietThanh1412&theme=tokyonight&border_radius=10" alt="Le Viet Thanh's GitHub Streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeVietThanh1412/LeVietThanh1412/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeVietThanh1412/LeVietThanh1412/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/LeVietThanh1412/LeVietThanh1412/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
